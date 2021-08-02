@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science at Springboard and pursuing Masters in Data Science at UOP
 - 💞️ I’m looking to collaborate on Machine Learning Projects 
 - 📫 How to reach me 
-       email: amitabhvirk@gmail.com
+       email: amitabhvirk@outlook.com.com
        website: amitabhvirk.com
 
 <!---
